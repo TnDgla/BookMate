@@ -81,6 +81,17 @@ To build a dynamic, full-stack bookstore application using MongoDB, Express.js, 
 
 ---
 
+### **Workflow Overview**
+This section illustrates the complete workflow for users and admins in the **BookMate** application, covering key functionalities such as book management, browsing, and user interactions.
+
+---
+
+### **System Architecture**
+This section demonstrates the high-level architecture of the **BookMate** app, showcasing the interaction between the frontend, backend, and database. It highlights how users perform actions like browsing, adding, and managing books, with all requests processed by the backend and stored in the database.
+![image](https://github.com/user-attachments/assets/d4644c14-5ea1-4cfb-9546-8a70c2a42e77)
+
+---
+
 # Project Structure for Feature Implementation
 This project is structured to ensure a systematic and incremental development process. Each week builds upon the previous deliverables, enabling a smooth transition from basic functionalities to advanced features.
 
